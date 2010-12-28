@@ -1,0 +1,11 @@
+   This is a hardware and software project to control russian IV-18 VFD tubes.
+It was initially done using eLua (http://www.eluaproject.net), thus making
+the code generic to all supported platforms.
+   Felipe Maimon designed an AVR-based controller board and firmware, to
+allow a simple serial (5Vcc UART) API to control the tubes.
+   The board has it's own programmable switching power supply, filament regulated voltage and
+segment multiplexing software. 
+   Some basic scroll facilities are also included.
+   The API and board's functionality can be greatly (and easially) improved.
+   Hardware is also open source and is included on the doc.
+
