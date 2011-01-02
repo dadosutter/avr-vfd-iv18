@@ -1,1 +1,3 @@
 - Mudar o formato dos textos pra UTF-8
+- Mudar line terminator pra Linux (que Win reconhece)
+
