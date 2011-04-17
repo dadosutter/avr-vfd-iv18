@@ -49,7 +49,7 @@ int main (void)
 
 
 	uart_puts_P(PSTR("Inicio VFD\r"));
-	vfd_setstring("Conversor Boost");
+	vfd_setstring("Felipe Maimon");
 
 	for(;;)
 	{
